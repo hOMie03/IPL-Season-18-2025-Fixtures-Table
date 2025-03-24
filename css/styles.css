@@ -109,3 +109,10 @@ td.teamCell:hover > .bgImg, td.teamCell:hover {
 td.vsCell {
     width: auto;
 }
+
+footer {
+    color: white;
+}
+footer a {
+    color: white;
+}
