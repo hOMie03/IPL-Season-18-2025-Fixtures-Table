@@ -457,86 +457,6 @@ const fixturesData = [
     },
     {
         matchNo: 58,
-        date: "8-May-2025",
-        team1: "Punjab Kings",
-        team2: "Delhi Capitals",
-        Venue: "Dharamsala",
-        noonOrNight: "Night"
-    },
-    {
-        matchNo: 59,
-        date: "9-May-2025",
-        team1: "Lucknow Super Giants",
-        team2: "Royal Challengers Bengaluru",
-        Venue: "Lucknow",
-        noonOrNight: "Night"
-    },
-    {
-        matchNo: 60,
-        date: "10-May-2025",
-        team1: "Sunrisers Hyderabad",
-        team2: "Kolkata Knight Riders",
-        Venue: "Hyderabad",
-        noonOrNight: "Night"
-    },
-    {
-        matchNo: 61,
-        date: "11-May-2025",
-        team1: "Punjab Kings",
-        team2: "Mumbai Indians",
-        Venue: "Dharamsala",
-        noonOrNight: "Day"
-    },
-    {
-        matchNo: 62,
-        date: "11-May-2025",
-        team1: "Delhi Capitals",
-        team2: "Gujarat Titans",
-        Venue: "Delhi",
-        noonOrNight: "Night"
-    },
-    {
-        matchNo: 63,
-        date: "12-May-2025",
-        team1: "Chennai Super Kings",
-        team2: "Rajasthan Royals",
-        Venue: "Chennai",
-        noonOrNight: "Night"
-    },
-    {
-        matchNo: 64,
-        date: "13-May-2025",
-        team1: "Royal Challengers Bengaluru",
-        team2: "Sunrisers Hyderabad",
-        Venue: "Bengaluru",
-        noonOrNight: "Night"
-    },
-    {
-        matchNo: 65,
-        date: "14-May-2025",
-        team1: "Gujarat Titans",
-        team2: "Lucknow Super Giants",
-        Venue: "Ahmedabad",
-        noonOrNight: "Night"
-    },
-    {
-        matchNo: 66,
-        date: "15-May-2025",
-        team1: "Mumbai Indians",
-        team2: "Delhi Capitals",
-        Venue: "Mumbai",
-        noonOrNight: "Night"
-    },
-    {
-        matchNo: 67,
-        date: "16-May-2025",
-        team1: "Rajasthan Royals",
-        team2: "Punjab Kings",
-        Venue: "Jaiput",
-        noonOrNight: "Night"
-    },
-    {
-        matchNo: 68,
         date: "17-May-2025",
         team1: "Royal Challengers Bengaluru",
         team2: "Kolkata Knight Riders",
@@ -544,18 +464,98 @@ const fixturesData = [
         noonOrNight: "Night"
     },
     {
-        matchNo: 69,
+        matchNo: 59,
         date: "18-May-2025",
+        team1: "Rajasthan Royals",
+        team2: "Punjab Kings",
+        Venue: "Jaipur",
+        noonOrNight: "Day"
+    },
+    {
+        matchNo: 60,
+        date: "18-May-2025",
+        team1: "Delhi Capitals",
+        team2: "Gujarat Titans",
+        Venue: "Delhi",
+        noonOrNight: "Night"
+    },
+    {
+        matchNo: 61,
+        date: "19-May-2025",
+        team1: "Lucknow Super Giants",
+        team2: "Sunrisers Hyderabad",
+        Venue: "Lucknow",
+        noonOrNight: "Night"
+    },
+    {
+        matchNo: 62,
+        date: "20-May-2025",
+        team1: "Chennai Super Kings",
+        team2: "Rajasthan Royals",
+        Venue: "Delhi",
+        noonOrNight: "Night"
+    },
+    {
+        matchNo: 63,
+        date: "21-May-2025",
+        team1: "Mumbai Indians",
+        team2: "Delhi Capitals",
+        Venue: "Mumbai",
+        noonOrNight: "Night"
+    },
+    {
+        matchNo: 64,
+        date: "22-May-2025",
+        team1: "Gujarat Titans",
+        team2: "Lucknow Super Giants",
+        Venue: "Ahmedabad",
+        noonOrNight: "Night"
+    },
+    {
+        matchNo: 65,
+        date: "23-May-2025",
+        team1: "Royal Challengers Bengaluru",
+        team2: "Sunrisers Hyderabad",
+        Venue: "Bengaluru",
+        noonOrNight: "Night"
+    },
+    {
+        matchNo: 66,
+        date: "24-May-2025",
+        team1: "Punjab Kings",
+        team2: "Delhi Capitals",
+        Venue: "Jaipur",
+        noonOrNight: "Night"
+    },
+    {
+        matchNo: 67,
+        date: "25-May-2025",
         team1: "Gujarat Titans",
         team2: "Chennai Super Kings",
         Venue: "Ahmedabad",
         noonOrNight: "Day"
     },
     {
+        matchNo: 68,
+        date: "25-May-2025",
+        team1: "Sunrisers Hyderabad",
+        team2: "Kolkata Knight Riders",
+        Venue: "Delhi",
+        noonOrNight: "Night"
+    },
+    {
+        matchNo: 69,
+        date: "26-May-2025",
+        team1: "Punjab Kings",
+        team2: "Mumbai Indians",
+        Venue: "Jaipur",
+        noonOrNight: "Night"
+    },
+    {
         matchNo: 70,
-        date: "18-May-2025",
+        date: "27-May-2025",
         team1: "Lucknow Super Giants",
-        team2: "Sunrisers Hyderabad",
+        team2: "Royal Challengers Bengaluru",
         Venue: "Lucknow",
         noonOrNight: "Night"
     },
@@ -563,34 +563,34 @@ const fixturesData = [
     
     {
         matchNo: 71,
-        date: "20-May-2025",
+        date: "29-May-2025",
         team1: "Qualifier1 Team1",
         team2: "Qualifier1 Team2",
-        Venue: "Hyderabad",
+        Venue: "TBD",
         noonOrNight: "Night"
     },
     {
         matchNo: 72,
-        date: "18-May-2025",
+        date: "30-May-2025",
         team1: "Eliminator Team1",
         team2: "Eliminator Team2",
-        Venue: "Hyderabad",
+        Venue: "TBD",
         noonOrNight: "Night"
     },
     {
         matchNo: 73,
-        date: "18-May-2025",
+        date: "1-June-2025",
         team1: "Qualifier2 Team1",
         team2: "Qualifier2 Team2",
-        Venue: "Kolkata",
+        Venue: "TBD",
         noonOrNight: "Night"
     },
     {
         matchNo: 74,
-        date: "18-May-2025",
+        date: "3-June-2025",
         team1: "Finale Team1",
         team2: "Finale Team2",
-        Venue: "Kolkata",
+        Venue: "TBD",
         noonOrNight: "Night"
     },
 ]
