@@ -564,17 +564,17 @@ const fixturesData = [
     {
         matchNo: 71,
         date: "29-May-2025",
-        team1: "Qualifier1 Team1",
+        team1: "Punjab Kings",
         team2: "Qualifier1 Team2",
-        Venue: "TBD",
+        Venue: "Chandigarh",
         noonOrNight: "Night"
     },
     {
         matchNo: 72,
         date: "30-May-2025",
         team1: "Eliminator Team1",
-        team2: "Eliminator Team2",
-        Venue: "TBD",
+        team2: "Mumbai Indians",
+        Venue: "Chandigarh",
         noonOrNight: "Night"
     },
     {
@@ -582,7 +582,7 @@ const fixturesData = [
         date: "1-June-2025",
         team1: "Qualifier2 Team1",
         team2: "Qualifier2 Team2",
-        Venue: "TBD",
+        Venue: "Ahmedabad",
         noonOrNight: "Night"
     },
     {
@@ -590,7 +590,7 @@ const fixturesData = [
         date: "3-June-2025",
         team1: "Finale Team1",
         team2: "Finale Team2",
-        Venue: "TBD",
+        Venue: "Ahmedabad",
         noonOrNight: "Night"
     },
 ]
