@@ -116,3 +116,13 @@ footer {
 footer a {
     color: white;
 }
+.fireworks-l {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+.fireworks-r {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
