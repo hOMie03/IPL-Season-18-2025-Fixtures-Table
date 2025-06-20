@@ -52,7 +52,7 @@ const iplTeams = [
         teamName: "Royal Challengers Bengaluru",
         shortName: "RCB",
         championsYear: "",
-        noOfTimesChampion: 0,
+        noOfTimesChampion: 1,
         logoLink: "./resources/images/teams-logo/Royal Challengers Bengaluru logo.avif"
     },
     {
@@ -66,7 +66,7 @@ const iplTeams = [
         teamName: "Rajasthan Royals",
         shortName: "RR",
         championsYear: "2008",
-        noOfTimesChampion: 5,
+        noOfTimesChampion: 1,
         logoLink: "./resources/images/teams-logo/Rajasthan Royals logo.avif"
     }
 ].sort((a,b)=> a.teamName.localeCompare(b.teamName));
@@ -79,10 +79,11 @@ function teamDataDisplay()
     {
         teamCards += `
         <div class="cards">
-        <a href="fixtures.html?team=${team.teamName}">
+        <a href="fixtures.html?team=${team.teamName}" style="text-decoration: none;">
             <figure>
                 <img src="${team.logoLink}" alt="${team.teamName}-poster">
-                <figcaption>${team.teamName} (${team.shortName})</figcaption>
+                <figcaption style="text-decoration: underline;">${team.teamName} (${team.shortName})</figcaption>
+                <figcaption>${'⭐'.repeat(team.noOfTimesChampion)}</figcaption>
             </figure>
         </a>
         </div>
